@@ -34,3 +34,6 @@
       nil))
   
   )
+(def pixels pixels)
+
+(def c c)
